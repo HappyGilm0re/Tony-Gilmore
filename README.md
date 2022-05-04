@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tony
+- 👀 I’m interested in improving my Python skills
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to gain a career in the industry
+- 📫 How to reach me ---> tgilmore216@gmail.com
